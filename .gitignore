@@ -1,0 +1,10 @@
+### Do not ignore gradle for functional_test ###
+!gradle
+!gradlew
+!gradlew.bat
+
+target
+build
+output
+.idea/*
+.gradle/*
